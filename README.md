@@ -6,6 +6,14 @@ I trained as an English and Literature teacher, so I care a lot about whether th
 
 **Portfolio:** [julieadul.site](https://julieadul.site) (backup: [julieadul.pages.dev](https://julieadul.pages.dev)) · Open to full-time roles and freelance projects
 
+## What I'm working on now
+
+November 2026
+
+- **Simpler versions of CAMs and ChurchPay at Wakandi Kenya.** CAMs is for running a SACCO (members, savings and loans), and ChurchPay is for church giving and records.
+- **CS50 at Harvard**, in progress.
+- **My portfolio**, [julieadul.site](https://julieadul.site): prerendered so search engines and AI assistants can read it, with an OpenAI chat assistant that answers questions about my work and passes contact requests to me.
+
 ## What I've built
 
 | Project | What it does | Built with |
@@ -18,6 +26,49 @@ I trained as an English and Literature teacher, so I care a lot about whether th
 | [Village Verdict](https://github.com/jbestcodes/village-verdict) | Social deduction game that runs inside Reddit | TypeScript, Phaser, Devvit, Hono, tRPC, Redis |
 
 I've also built websites for [AMIG International Consultants](https://amig.co.ke), [TopJob Human Resources](https://jbestcodes.github.io/TopJob), [Paris Barbershop & Spa](https://parisbarbershopspa.pages.dev), [Bukachi Hope Givers](https://www.bukachihopegivers.org) and [Hope Excellence Association](https://hope-excellence-association.vercel.app).
+
+## How AICVPro scores a CV
+
+Most applicant tracking systems count keywords. AICVPro checks each requirement in the job description for evidence in the CV, and explains every rating.
+
+```mermaid
+flowchart LR
+    A["Job seeker uploads a CV<br/>and the job description"] --> B["Read the CV<br/>(PDF or DOCX)"]
+    B --> C["OpenAI checks each<br/>requirement for evidence"]
+    C --> D{"Evidence<br/>in the CV?"}
+    D -- "Yes" --> E["Strength,<br/>with the reasoning"]
+    D -- "No" --> F["Gap,<br/>with the reasoning"]
+    E --> G["Free match score"]
+    F --> G
+    G --> H["Optional: tailored CV and<br/>cover letter, paid via Paystack"]
+
+    classDef result stroke:#22c08a,stroke-width:2px
+    class G,H result
+```
+
+Hiring managers get the same analysis for up to 200 CVs at once, exportable as CSV.
+
+## Timeline
+
+| When | What happened |
+| --- | --- |
+| 2019 | Bachelor of Education (Arts), English and Literature, Kenyatta University |
+| 2025 | Software Development Program (MERN stack), Powerlearn Project Africa |
+| Aug 2025 | Started Jaza Nyumba (chama management), AfyaPulse (AI symptom checker) and the TopJob website |
+| Jan 2026 | AMIG International Consultants website |
+| Apr 2026 | OmniConnect Pay (Wi-Fi hotspot business dashboard) |
+| Jul 2026 | Village Verdict, a game that runs inside Reddit |
+| Aug 2026 | Joined Wakandi Kenya as a Growth Hacker Intern |
+| Nov 2026 | Growth Hacker at Wakandi Kenya, working on simpler versions of CAMs and ChurchPay |
+
+## How I work
+
+| Principle | What it means |
+| --- | --- |
+| **Technology should serve people** | I start from the person using it: a chama treasurer, a church secretary, a hiring manager with 200 CVs. |
+| **Quality over quantity** | Fewer features, done properly and shipped, beats a long list that half works. |
+| **Problems are puzzles** | I like the hard part: turning messy records or a pile of CVs into something clear. |
+| **Always learning** | Right now that's CS50 and growth work at Wakandi Kenya. |
 
 ## Tools I use
 
