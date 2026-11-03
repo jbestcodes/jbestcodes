@@ -23,7 +23,7 @@ November 2026
 | [Jaza Nyumba](https://jazanyumba.online) ([code](https://github.com/jbestcodes/Chama-Vault)) | Chama (savings group) platform: member approval, contribution schedules, loans from application to repayment, SMS and email reminders, an AI financial assistant, Paystack subscriptions; works offline as an installable app | React, Node.js, MongoDB, OpenAI API, Paystack, SMS Leopard |
 | [AfyaPulse](https://afyapulse.vercel.app) ([code](https://github.com/jbestcodes/Afyapulse)) | AI symptom checker for Kenya with M-Pesa payments for detailed reports | React, Node.js, MongoDB, Hugging Face, M-Pesa Daraja |
 | [Loopping](https://loopping.netlify.app) | Follow-up reminders for business owners, so no lead is forgotten | React, Firebase |
-| [School Fee Management](https://schoolfee.netlify.app) | Fee tracking for schools (balances, charts, class-by-class debtors, CSV import) with a parent portal | React, Vite, Tailwind CSS, Recharts |
+| [School Fee Management](https://schoolfee.netlify.app) | Multi-school fee tracking (balances, charts, class-by-class debtors, CSV import) with admin and parent logins and a parent portal | React, Tailwind CSS, Recharts, Node.js, Express, PostgreSQL |
 | [Village Verdict](https://github.com/jbestcodes/village-verdict) | Social deduction game that runs inside Reddit | TypeScript, Phaser, Devvit, Hono, tRPC, Redis |
 
 I've also built websites for [AMIG International Consultants](https://amig.co.ke), [TopJob Human Resources](https://jbestcodes.github.io/TopJob), [Paris Barbershop & Spa](https://parisbarbershopspa.pages.dev), [Bukachi Hope Givers](https://www.bukachihopegivers.org) and [Hope Excellence Association](https://hope-excellence-association.vercel.app).
@@ -58,6 +58,7 @@ Hiring managers get the same analysis for up to 200 CVs at once, exportable as C
 | Aug 2025 | Started Jaza Nyumba (chama management), AfyaPulse (AI symptom checker) and the TopJob website |
 | Jan 2026 | AMIG International Consultants website |
 | Apr 2026 | OmniConnect Pay (Wi-Fi hotspot business dashboard) |
+| Jun 2026 | School Fee Management, a multi-school fee tracker with a parent portal |
 | Jul 2026 | Village Verdict, a game that runs inside Reddit |
 | Aug 2026 | Joined Wakandi Kenya as a Growth Hacker Intern |
 | Nov 2026 | Growth Hacker at Wakandi Kenya, working on simpler versions of CAMs and ChurchPay |
