@@ -20,9 +20,10 @@ November 2026
 | --- | --- | --- |
 | [AICVPro](https://aicvpro.co.ke) | AI CV analyzer for the Kenyan job market. Free match scores for job seekers, tailored CVs, and bulk CV screening for hiring managers | React, Supabase Edge Functions, OpenAI API, Paystack |
 | [OmniConnect Pay](https://github.com/jbestcodes/omniconnect-wifi-saas) | Dashboard for running a paid Wi-Fi hotspot business: packages, voucher codes, Paystack payments, revenue analytics | Next.js, TypeScript, Paystack, Docker |
-| [Jaza Nyumba](https://jazanyumba.online) ([code](https://github.com/jbestcodes/Chama-Vault)) | Chama (savings group) management: contributions, loans, SMS reminders, works offline as an installable app | React, Node.js, MongoDB |
+| [Jaza Nyumba](https://jazanyumba.online) ([code](https://github.com/jbestcodes/Chama-Vault)) | Chama (savings group) platform: member approval, contribution schedules, loans from application to repayment, SMS and email reminders, an AI financial assistant, Paystack subscriptions; works offline as an installable app | React, Node.js, MongoDB, OpenAI API, Paystack, SMS Leopard |
 | [AfyaPulse](https://afyapulse.vercel.app) ([code](https://github.com/jbestcodes/Afyapulse)) | AI symptom checker for Kenya with M-Pesa payments for detailed reports | React, Node.js, MongoDB, Hugging Face, M-Pesa Daraja |
 | [Loopping](https://loopping.netlify.app) | Follow-up reminders for business owners, so no lead is forgotten | React, Firebase |
+| [School Fee Management](https://schoolfee.netlify.app) | Fee tracking for schools (balances, charts, class-by-class debtors, CSV import) with a parent portal | React, Vite, Tailwind CSS, Recharts |
 | [Village Verdict](https://github.com/jbestcodes/village-verdict) | Social deduction game that runs inside Reddit | TypeScript, Phaser, Devvit, Hono, tRPC, Redis |
 
 I've also built websites for [AMIG International Consultants](https://amig.co.ke), [TopJob Human Resources](https://jbestcodes.github.io/TopJob), [Paris Barbershop & Spa](https://parisbarbershopspa.pages.dev), [Bukachi Hope Givers](https://www.bukachihopegivers.org) and [Hope Excellence Association](https://hope-excellence-association.vercel.app).
