@@ -70,6 +70,12 @@ Hiring managers get the same analysis for up to 200 CVs at once, exportable as C
 | **Problems are puzzles** | I like the hard part: turning messy records or a pile of CVs into something clear. |
 | **Always learning** | Right now that's CS50 and growth work at Wakandi Kenya. |
 
+## Beyond code
+
+- **I run chama groups**, which is also where Jaza Nyumba came from.
+- **I import products** of different kinds, so I know small-business stock, costs and customers first hand.
+- **To wind down**, I watch movies and take walks.
+
 ## Tools I use
 
 - **Frontend:** React, TypeScript, Vite, Tailwind CSS, Next.js
