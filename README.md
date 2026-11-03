@@ -4,7 +4,7 @@ Full stack developer and Growth Hacker at [Wakandi Kenya](https://wakandi.com) (
 
 I trained as an English and Literature teacher, so I care a lot about whether the person on the other side understands what they're looking at.
 
-**Portfolio:** [julieadul.site](https://julieadul.site) (backup: [julieadul.pages.dev](https://julieadul.pages.dev)) · Open to full-time roles and freelance projects
+**Portfolio:** [julieadul.pages.dev](https://julieadul.pages.dev) (also at [julieadul.site](https://julieadul.site)) · Open to full-time roles and freelance projects
 
 ## What I'm working on now
 
@@ -12,7 +12,7 @@ November 2026
 
 - **Simpler versions of CAMs and ChurchPay at Wakandi Kenya.** CAMs is for running a SACCO (members, savings and loans), and ChurchPay is for church giving and records.
 - **CS50 at Harvard**, in progress.
-- **My portfolio**, [julieadul.site](https://julieadul.site): prerendered so search engines and AI assistants can read it, with an OpenAI chat assistant that answers questions about my work and passes contact requests to me.
+- **My portfolio**, [julieadul.pages.dev](https://julieadul.pages.dev): prerendered so search engines and AI assistants can read it, with an OpenAI chat assistant that answers questions about my work and passes contact requests to me.
 
 ## What I've built
 
@@ -88,6 +88,6 @@ Hiring managers get the same analysis for up to 200 CVs at once, exportable as C
 
 ## Get in touch
 
-- Portfolio and chat assistant: [julieadul.site](https://julieadul.site) (backup: [julieadul.pages.dev](https://julieadul.pages.dev))
+- Portfolio and chat assistant: [julieadul.pages.dev](https://julieadul.pages.dev) (also at [julieadul.site](https://julieadul.site))
 - WhatsApp: [0799 590 637](https://wa.me/254799590637)
 - LinkedIn: [linkedin.com/in/julie-adul](https://www.linkedin.com/in/julie-adul)
