@@ -1,6 +1,6 @@
 # Hi, I'm Julie Adul
 
-Full stack developer and Growth Hacker at [Wakandi Kenya](https://wakandi.com). I build web products for businesses and the communities around them, then work on getting people to use them.
+Full stack developer and Growth Hacker at [Wakandi Kenya](https://wakandi.com) (since November 2026, after a Growth Hacker internship there from August to October 2026). I build web products for businesses and the communities around them, then work on getting people to use them.
 
 I trained as an English and Literature teacher, so I care a lot about whether the person on the other side understands what they're looking at.
 
