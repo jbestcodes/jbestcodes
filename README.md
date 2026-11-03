@@ -17,7 +17,7 @@ I trained as an English and Literature teacher, so I care a lot about whether th
 | [Loopping](https://loopping.netlify.app) | Follow-up reminders for business owners, so no lead is forgotten | React, Firebase |
 | [Village Verdict](https://github.com/jbestcodes/village-verdict) | Social deduction game that runs inside Reddit | TypeScript, Phaser, Devvit, Hono, tRPC, Redis |
 
-I've also built websites for [AMIG International Consultants](https://amig.co.ke), [TopJob Human Resources](https://jbestcodes.github.io/TopJob), [Paris Barbershop & Spa](https://parisbarbershopspa.pages.dev) and [Bukachi Hope Givers](https://www.bukachihopegivers.org).
+I've also built websites for [AMIG International Consultants](https://amig.co.ke), [TopJob Human Resources](https://jbestcodes.github.io/TopJob), [Paris Barbershop & Spa](https://parisbarbershopspa.pages.dev) [Bukachi Hope Givers](https://www.bukachihopegivers.org) and [Hope Excellence Association](https://hope-excellence-association.vercel.app).
 
 ## Tools I use
 
