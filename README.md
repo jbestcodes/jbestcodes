@@ -4,7 +4,7 @@ Full stack developer and Growth Hacker at [Wakandi Kenya](https://wakandi.com). 
 
 I trained as an English and Literature teacher, so I care a lot about whether the person on the other side understands what they're looking at.
 
-**Portfolio:** [julieadul.site](https://julieadul.site) · Open to full-time roles and freelance projects
+**Portfolio:** [julieadul.site](https://julieadul.site) (backup: [julieadul.pages.dev](https://julieadul.pages.dev)) · Open to full-time roles and freelance projects
 
 ## What I've built
 
@@ -29,6 +29,6 @@ I've also built websites for [AMIG International Consultants](https://amig.co.ke
 
 ## Get in touch
 
-- Portfolio and chat assistant: [julieadul.site](https://julieadul.site)
+- Portfolio and chat assistant: [julieadul.site](https://julieadul.site) (backup: [julieadul.pages.dev](https://julieadul.pages.dev))
 - WhatsApp: [0799 590 637](https://wa.me/254799590637)
 - LinkedIn: [linkedin.com/in/julie-adul](https://www.linkedin.com/in/julie-adul)
