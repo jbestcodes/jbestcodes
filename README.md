@@ -72,8 +72,8 @@ Hiring managers get the same analysis for up to 200 CVs at once, exportable as C
 
 ## Beyond code
 
-- **I run chama groups**, which is also where Jaza Nyumba came from.
-- **I import products** of different kinds, so I know small-business stock, costs and customers first hand.
+- **I run chama groups.**
+- **I import products** of different kinds.
 - **To wind down**, I watch movies and take walks.
 
 ## Tools I use
